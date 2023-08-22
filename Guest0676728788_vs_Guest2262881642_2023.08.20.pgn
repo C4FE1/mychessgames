@@ -2,11 +2,11 @@
 [Site "Chess.com"]
 [Date "2023.08.20"]
 [Round "?"]
-[White "Guest0676728788"]
+[White "me"]
 [Black "Guest2262881642"]
 [Result "1-0"]
 [TimeControl "600"]
-[Termination "Guest0676728788 won by resignation"]
+[Termination "me won by resignation"]
 
 1. e4 e5 2. f4 exf4 3. d4 d5 4. e5 Qg5 5. Nf3 Qf5 6. Bd3 Qg4 7. O-O Nc6 8. h3
 Qd7 9. Bxf4 f6 10. Nc3 fxe5 11. dxe5 Qe6 12. Qe2 h6 13. Nd4 Bc5 14. Nb5 Bxd4+
